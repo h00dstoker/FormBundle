@@ -1,5 +1,5 @@
 {
-    "name": "evolutto/gregwar-form-bundle",
+    "name": "evolutto/gregwar-form",
     "description": "Provides the \"entity_id\" type (read \"entity identifier\")",
     "license": "MIT",
     "require": {
