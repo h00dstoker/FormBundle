@@ -8,7 +8,7 @@ Gregwar's FormBundle
 Installation
 ============
 
-To install `GregwarFormBundle`, run `composer require gregwar/form-bundle`.
+To install `GregwarFormBundle`, run `composer require evolutto/gregwar-form-bundle`.
 
 Then, register the bundle in the application kernel :
 
